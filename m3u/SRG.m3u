@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,SRF 1 HD
+rtsp://@192.168.1.120/?src=2&freq=10971&pol=h&msys=dvbs2&sr=29700&pids=0,501,502,507,503,504,505,502&x_pmt=501&x_ci=2
+#EXTINF:0,SRF zwei HD
+rtsp://@192.168.1.120/?src=2&freq=10971&pol=h&msys=dvbs2&sr=29700&pids=0,511,512,517,513,514,515,512&x_pmt=511&x_ci=2
+#EXTINF:0,SRF info HD
+rtsp://@192.168.1.120/?src=2&freq=11526&pol=h&msys=dvbs2&sr=29700&pids=0,521,522,527,523,525,522
